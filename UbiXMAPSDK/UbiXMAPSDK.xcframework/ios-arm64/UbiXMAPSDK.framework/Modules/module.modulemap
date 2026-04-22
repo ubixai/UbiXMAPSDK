@@ -1,0 +1,6 @@
+framework module UbiXMAPSDK {
+  umbrella header "UbiXMAPSDK.h"
+  export *
+
+  module * { export * }
+}
