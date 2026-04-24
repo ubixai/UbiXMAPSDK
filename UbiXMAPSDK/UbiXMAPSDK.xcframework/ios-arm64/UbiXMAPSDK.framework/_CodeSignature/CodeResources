@@ -26,7 +26,7 @@
 		</data>
 		<key>Headers/UbiXMAPInterstitialSlot.h</key>
 		<data>
-		SkQ+nmn3yuiIoiekJE3qmpXObPE=
+		EDIink+iJsYQhsx3a9vYrZVdHj0=
 		</data>
 		<key>Headers/UbiXMAPMacro.h</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Headers/UbiXMAPSDKManager.h</key>
 		<data>
-		+HJwiBn+QEZ/5qKZOn2BNvF1w4A=
+		60RivNW66E45XM2BiX45s0g19ew=
 		</data>
 		<key>Headers/UbiXMAPSlot.h</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Headers/UbiXMAPVideoPlayerView.h</key>
 		<data>
-		ja58zCepbwXu/ICCzW1Is7dyJ3A=
+		kpvm49hp3QVvOOS0qD/0Q41bFIk=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -138,7 +138,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xp7cg5m2zf1aTHL1hU+8b7MJCYfIGmrsuryZ2J3cCCs=
+			WHej8XcKSt9LWSt0ZNKOVyKJDMF2EDAvKZaD3pOuGcA=
 			</data>
 		</dict>
 		<key>Headers/UbiXMAPMacro.h</key>
@@ -208,7 +208,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0SeIRwT7BzVzW2QhvHuy9hHnKt1cz2971fwUcLj8nyY=
+			pI0hBJZWotShsZ0dyjeD+c4CCvu9QQQ1Z7xpvdhpHrs=
 			</data>
 		</dict>
 		<key>Headers/UbiXMAPSlot.h</key>
@@ -236,7 +236,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HWqubv/VmU9lq0oZRkb2XGqwOva07+PHGjiLfZnhWnM=
+			5N1Zxge3yesHc2bf6WHHs1BuaHKeWU8k9+Nq9TLTleM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

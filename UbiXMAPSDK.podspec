@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UbiXMAPSDK'
-  s.version          = '2.0.7.1.0'
+  s.version          = '2.0.7.13.0'
   s.summary          = 'UBiX聚合广告变现SDK AdProf Adapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   # s.license          = { :type => 'MIT', :file => 'LICENSE' }

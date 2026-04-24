@@ -53,6 +53,12 @@ typedef void (^UbiXMAPInitResultBlock)(BOOL isSucc, NSError * _Nullable error);
  + (void)updateLocalLBSLon:(nullable NSString *)lon
                        lat:(nullable NSString *)lat;
 
+/**
+ *  是否打开个性化广告开关
+ *  @param isOpen  是否打开
+ */
++ (void)setPersonalInfo:(BOOL)isOpen;
+
 
 @end
 

@@ -13,6 +13,13 @@ NS_ASSUME_NONNULL_BEGIN
 @interface UbiXMAPVideoPlayerView : UIView
 
 /**
+ * 是否在滚动导致可见面积不足时自动暂停，再次露出时恢复播放（适用于列表/信息流等）。
+ * 依据裁剪可见比：离屏为「<30% 且较上拍面积减小」；回屏为「上拍<30% 且本拍>=30% 且较上拍增大」
+ * 或原「<50% -> >=50%」。默认 NO。
+ */
+@property (nonatomic, assign) BOOL pausesWhenOffscreen;
+
+/**
  * 设置视频播放状态回调
  * @param callback 状态变化时的回调
  */
