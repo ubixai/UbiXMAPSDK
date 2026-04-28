@@ -14,8 +14,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 /**
  * 是否在滚动导致可见面积不足时自动暂停，再次露出时恢复播放（适用于列表/信息流等）。
- * 依据裁剪可见比：离屏为「<30% 且较上拍面积减小」；回屏为「上拍<30% 且本拍>=30% 且较上拍增大」
- * 或原「<50% -> >=50%」。默认 NO。
+ * 依据 ExposeMonitor：露出约 ≥50% 视为回屏，低于约 30% 视为离屏。默认 NO。
  */
 @property (nonatomic, assign) BOOL pausesWhenOffscreen;
 

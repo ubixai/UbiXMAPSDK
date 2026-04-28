@@ -1,5 +1,5 @@
 //
-//  UbiXMAPBannerAd.h
+//  APBannerAd.h
 //  UbiXMAPSDK
 //
 //  Created by coderqi on 2025/11/13.

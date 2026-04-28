@@ -85,10 +85,10 @@ typedef NS_ENUM(NSInteger, UbiXMAPAdInteractionType) {
 
 /**以下为C2S bidding上报参数key**/
 //竞胜方价格 单位：分
-#define kUbiXMAPAdMediaWinPrice   @"win_price"
+#define kAPAdMediaWinPrice   @"win_price"
 //最大竞败方出价 单位：分
-#define kUbiXMAPAdMediaLossPrice  @"sec_price"
+#define kAPAdMediaLossPrice  @"sec_price"
 //竞败原因 0 未知 100价格低失败 200 超时失败
-#define kUbiXMAPAdMediaLossReason @"loss_reason"
+#define kAPAdMediaLossReason @"loss_reason"
 
 #endif /* UbiXMAPMacro_h */

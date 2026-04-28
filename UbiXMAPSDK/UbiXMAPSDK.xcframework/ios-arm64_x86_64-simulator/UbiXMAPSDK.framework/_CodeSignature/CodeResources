@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/UbiXMAPBannerAd.h</key>
 		<data>
-		ZS4t5xjFMhKabkr49eUvRtYmEIk=
+		wknlZ6qFXAGwWwDJDh1ZySEDoxo=
 		</data>
 		<key>Headers/UbiXMAPBannerSlot.h</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/UbiXMAPMacro.h</key>
 		<data>
-		+cbWKK/pQ8OYVmC7sxl27y/mTeI=
+		JFJiAePba4iWyzRVHxmsxb0kn2o=
 		</data>
 		<key>Headers/UbiXMAPNativeAd.h</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Headers/UbiXMAPSplashAd.h</key>
 		<data>
-		NvlQIELd0LPlcIVcDCklHoTtbcg=
+		dC8Lcb3WfhCf1NajN0jXq1fcXD4=
 		</data>
 		<key>Headers/UbiXMAPSplashAdSlot.h</key>
 		<data>
@@ -82,11 +82,11 @@
 		</data>
 		<key>Headers/UbiXMAPVideoPlayerView.h</key>
 		<data>
-		kpvm49hp3QVvOOS0qD/0Q41bFIk=
+		6hzgYZ+CtvEdYPGlobbIuIRAXeU=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		FLDKi1Trip0r952cef5gbcj/8hs=
+		fhhzMTDI2s2OZNRCp9npFoWHVHI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -103,7 +103,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RNJVaMcmZ89xRFql4EX/i+VWA9dzhUtJ7z8W5sCPz0A=
+			c//JeOsklaHr/plnhJtTLy8p0s99xXlgFpIOjRLMSpA=
 			</data>
 		</dict>
 		<key>Headers/UbiXMAPBannerSlot.h</key>
@@ -145,7 +145,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PkJp5XoC3DigvYLhkuI2A8Uk8vTXU6wifSJ7R6+ST0k=
+			8nrAqMJr/dybYNb4h3ldhL79HFlAaVQXErdMBeakvno=
 			</data>
 		</dict>
 		<key>Headers/UbiXMAPNativeAd.h</key>
@@ -222,7 +222,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NRo8scuHeQ6MDWSSxfs11NoSVagDLeU6LvKwukRrkg0=
+			KAhpYG1ThQFW2Wh6YUOOLoJgBNtGj8l43nVeQhT+l8A=
 			</data>
 		</dict>
 		<key>Headers/UbiXMAPSplashAdSlot.h</key>
@@ -236,7 +236,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5N1Zxge3yesHc2bf6WHHs1BuaHKeWU8k9+Nq9TLTleM=
+			EaiYJN2KDnX1KsoULHF49UQaskabZBk9ojy5RIqgKC8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
